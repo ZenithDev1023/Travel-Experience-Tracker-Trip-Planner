@@ -1,0 +1,14 @@
+package enums;
+
+public enum FoodPreference {
+    LOCAL_CUISINE,
+    INTERNATIONAL,
+    VEGETARIAN,
+    VEGAN,
+    GLUTEN_FREE,
+    FINE_DINING,
+    STREET_FOOD,
+    COOKING_CLASSES,
+    FOOD_TOURS,
+    DIETARY_RESTRICTIONS;
+}

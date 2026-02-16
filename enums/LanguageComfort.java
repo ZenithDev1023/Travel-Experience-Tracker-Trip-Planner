@@ -1,0 +1,10 @@
+package enums;
+
+public enum LanguageComfort {
+    ENGLISH_ONLY,
+    LOCAL_LANGUAGE_PREFERRED,
+    TRANSLATOR_NEEDED,
+    LANGUAGE_IMMERSION,
+    SIGN_LANGUAGE,
+    MULTILINGUAL_COMFORTABLE;
+}
